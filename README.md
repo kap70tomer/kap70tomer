@@ -1,4 +1,4 @@
-👋 Hi, I’m Tomer Schwartz, a Fullstack developer.
+👋 Hi, I’m Tomer Schwartz, I'm a Fullstack developer.
 
 👀 I’m interested in UX/UI design and anything to do with Apps and Websites development...or anything with technology acctualy..
 
